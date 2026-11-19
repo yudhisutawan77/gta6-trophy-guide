@@ -1,0 +1,263 @@
+/* Leonida Trophy Guide — original look: deep teal night, sunset amber, clean cards. */
+:root {
+  --night: #0d1b1e;
+  --teal: #0f3a3d;
+  --teal-soft: #e6f2f0;
+  --amber: #f2a541;
+  --amber-deep: #c77f1a;
+  --coral: #e2603f;
+  --ink: #17252a;
+  --muted: #5b6b70;
+  --line: #d8e2e0;
+  --card: #ffffff;
+  --gold: #8a6d00;
+  --silver: #5c6b73;
+  --bronze: #8a5a2b;
+  --platinum: #3f7d8c;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--ink);
+  background: #f4f7f6;
+  line-height: 1.55;
+}
+
+.masthead {
+  background: linear-gradient(135deg, var(--night) 0%, var(--teal) 62%, #14524f 100%);
+  color: #fff;
+  padding: 40px 24px 32px;
+  border-bottom: 5px solid var(--amber);
+}
+
+.masthead h1 {
+  margin: 6px auto 10px;
+  max-width: 1020px;
+  font-size: 2.5rem;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.eyebrow {
+  margin: 0 auto;
+  max-width: 1020px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.78rem;
+  color: var(--amber);
+  font-weight: 700;
+}
+
+.lede {
+  margin: 0 auto 12px;
+  max-width: 1020px;
+  font-size: 1.1rem;
+  color: #dcebe8;
+}
+
+.honesty {
+  margin: 0 auto;
+  max-width: 1020px;
+  font-size: 0.9rem;
+  color: #b9d2cd;
+  border-left: 3px solid var(--amber);
+  padding-left: 12px;
+}
+
+main { max-width: 1020px; margin: 0 auto; padding: 24px 20px 40px; }
+
+section { margin-bottom: 28px; }
+
+h2 { font-size: 1.4rem; margin: 0 0 8px; color: var(--night); }
+h3 { font-size: 1.05rem; margin: 0 0 4px; color: var(--teal); }
+p { margin: 0 0 10px; }
+.section-note, .save-note, .spoiler-note, .sources-line { color: var(--muted); font-size: 0.92rem; }
+
+/* Progress card */
+.progress-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 20px 22px;
+  box-shadow: 0 2px 10px rgba(13, 27, 30, 0.07);
+}
+
+.progress-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+.progress-text { font-size: 1.05rem; font-weight: 600; margin: 0; }
+.progress-pct { text-align: right; margin: 0; }
+.progress-pct span:first-child { display: block; font-size: 2.1rem; font-weight: 800; color: var(--teal); line-height: 1; }
+.pct-label { font-size: 0.8rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
+
+.bar {
+  height: 18px;
+  background: var(--teal-soft);
+  border-radius: 999px;
+  overflow: hidden;
+  margin: 14px 0 8px;
+  border: 1px solid var(--line);
+}
+
+.bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--amber), var(--coral));
+  border-radius: 999px;
+  transition: width 0.3s ease;
+}
+
+.grade-counts { font-weight: 600; margin: 0 0 6px; }
+
+/* Roadmap */
+.roadmap { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; }
+.phases { list-style: none; margin: 12px 0 0; padding: 0; counter-reset: phase; }
+.phases li {
+  counter-increment: phase;
+  position: relative;
+  padding: 0 0 16px 52px;
+  border-left: 3px solid var(--teal-soft);
+  margin-left: 14px;
+}
+.phases li:last-child { padding-bottom: 0; }
+.phases li::before {
+  content: counter(phase);
+  position: absolute;
+  left: -17px;
+  top: 0;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  background: var(--teal);
+  color: #fff;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95rem;
+}
+.phases p { margin: 0; }
+
+/* Missable callout */
+.missable {
+  background: #fdf3e3;
+  border: 2px solid var(--amber);
+  border-radius: 14px;
+  padding: 20px 22px;
+}
+.missable h2 { color: #7a4d05; }
+.missable-list { display: grid; gap: 10px; margin-top: 12px; }
+
+/* Controls */
+.controls { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; }
+.control-row { display: flex; flex-wrap: wrap; gap: 14px; align-items: flex-end; margin-bottom: 12px; }
+.control-row:last-of-type { margin-bottom: 0; }
+.controls label { display: flex; flex-direction: column; gap: 4px; font-weight: 600; font-size: 0.9rem; }
+.controls label.toggle { flex-direction: row; align-items: center; gap: 8px; padding-bottom: 8px; }
+.search-label { flex: 1 1 260px; }
+
+input[type="search"], select {
+  font: inherit;
+  padding: 9px 11px;
+  border: 1.5px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+}
+
+button, .import-btn {
+  font: inherit;
+  font-weight: 700;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1.5px solid var(--teal);
+  background: var(--teal);
+  color: #fff;
+  cursor: pointer;
+}
+button:hover, .import-btn:hover { background: #0c2f31; }
+button.danger { background: #fff; color: #a33; border-color: #c99; }
+button.danger:hover { background: #fbeeee; }
+
+.import-btn { display: inline-block; }
+.import-btn input { display: none; }
+.status { font-size: 0.92rem; color: var(--teal); font-weight: 600; }
+
+/* Trophy list */
+.result-count { font-weight: 700; margin-bottom: 10px; }
+.empty-state { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 22px; text-align: center; color: var(--muted); }
+
+.trophy-list { display: grid; gap: 12px; }
+
+.trophy-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px 18px;
+}
+.trophy-card.earned { border-color: #7fb069; background: #f4faf1; }
+.trophy-card.missable-card { border-left: 5px solid var(--amber); }
+
+.card-top { display: flex; gap: 12px; align-items: flex-start; }
+.card-top input[type="checkbox"] { width: 22px; height: 22px; margin-top: 3px; flex: none; accent-color: var(--teal); cursor: pointer; }
+.card-main { flex: 1; min-width: 0; }
+.card-title { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.card-title h3 { margin: 0; color: var(--ink); font-size: 1.12rem; }
+
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.badge-platinum { background: #dceef2; color: var(--platinum); }
+.badge-gold { background: #fdf3d0; color: var(--gold); }
+.badge-silver { background: #e8edf0; color: var(--silver); }
+.badge-bronze { background: #f7e8d5; color: var(--bronze); }
+.badge-kind { background: var(--teal-soft); color: var(--teal); }
+.badge-missable { background: #fdeecd; color: #7a4d05; }
+.badge-earned { background: #dcefd4; color: #33691e; }
+
+.trophy-desc { margin: 6px 0 0; color: var(--muted); font-style: italic; }
+.hidden-note { margin: 6px 0 0; color: var(--muted); font-style: italic; }
+
+.guide-toggle {
+  margin-top: 10px;
+  background: none;
+  border: none;
+  color: var(--teal);
+  font-weight: 700;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.guide-body { margin-top: 12px; border-top: 1px solid var(--line); padding-top: 12px; }
+.guide-body h4 { margin: 0 0 6px; font-size: 0.95rem; color: var(--teal); text-transform: uppercase; letter-spacing: 0.06em; }
+.guide-body p { margin: 0 0 10px; }
+.guide-sources { margin: 0; padding: 0; list-style: none; }
+.guide-sources li { margin-bottom: 4px; }
+.guide-sources a { color: var(--teal); font-weight: 600; overflow-wrap: anywhere; }
+.guide-sources a:visited { color: #5a3a8c; }
+
+/* About + footer */
+.about { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; }
+footer { max-width: 1020px; margin: 0 auto; padding: 0 20px 32px; color: var(--muted); font-size: 0.85rem; }
+
+button:focus-visible, .import-btn:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible, .guide-toggle:focus-visible {
+  outline: 3px solid var(--amber);
+  outline-offset: 2px;
+}
+
+@media (max-width: 640px) {
+  .masthead h1 { font-size: 1.9rem; }
+  .progress-head { flex-direction: column; }
+  .progress-pct { text-align: left; }
+  .progress-pct span:first-child { display: inline; margin-right: 8px; }
+  .phases li { padding-left: 44px; }
+}

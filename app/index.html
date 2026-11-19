@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI · All 55 Trophies</title>
+<meta name="description" content="An offline guide and tracker for the 55 PlayStation 5 trophies of Grand Theft Auto VI: roadmap to the Platinum, missable warnings, cited guides and a saved checklist.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="eyebrow">Grand Theft Auto VI · PlayStation 5 · Offline guide</p>
+  <h1>Leonida Trophy Guide</h1>
+  <p class="lede">Every one of the 55 trophies, with its official name, description and grade, a guide in our own words with its sources beside it, and a checklist that remembers your progress.</p>
+  <p class="honesty">GTA VI launches 19 November 2026. Names, descriptions and grades are shown exactly as published in the 55-trophy list (Exophase, reported by Push Square on 18 Nov 2026). Where a description gives no unlock method, the guide says so instead of inventing one — check the cited sources after launch for confirmed steps.</p>
+</header>
+
+<main>
+  <section class="progress-card" id="progress" aria-label="Progress to Platinum">
+    <div class="progress-head">
+      <div>
+        <h2>Road to the Platinum</h2>
+        <p id="progressText" class="progress-text">0 of 55 earned</p>
+      </div>
+      <p class="progress-pct"><span id="progressPct">0%</span><span class="pct-label">to Platinum</span></p>
+    </div>
+    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progressBarWrap">
+      <div class="bar-fill" id="progressBar" style="width:0%"></div>
+    </div>
+    <p class="grade-counts" id="gradeCounts">Platinum 0/1 · Gold 0/2 · Silver 0/6 · Bronze 0/46</p>
+    <p class="save-note">Progress saves in this browser automatically. Export it to keep a backup, or import it on another machine.</p>
+  </section>
+
+  <section class="roadmap" id="roadmap" aria-label="Roadmap to the Platinum">
+    <h2>Roadmap to the Platinum</h2>
+    <p class="section-note">Built only from the official descriptions, in the order to play them. Five phases, one playthrough, no online trophies.</p>
+    <ol class="phases">
+      <li>
+        <h3>Phase 1 — Play the story</h3>
+        <p>Opening mission <strong>Gone Fishing</strong>, then Chapters 1–4 in order, finishing with the final mission. Take the character strands (Andy, Kenton, Billy, Randy, Tyrone) as they appear. Trophies: Just Like Paradise · Paradise Lost · T**s Ass Drug Money · Vice City, Baby! · Top Of The World, Ma · You Gotta Know When to Get Off · Trust · Break the Bank · Family Matters · DWNFALL · Hi-Jacked · Snow Storm.</p>
+      </li>
+      <li>
+        <h3>Phase 2 — While you play: partner, combat, explore</h3>
+        <p>Do the partner trophies while your partner is with you, learn Combat Focus, and explore every corner of Leonida as you travel between missions. Trophies: Hot Together · Retail Therapy · Gunslinger · The Goodtime State · Whip It Good · Catch Me If You Can.</p>
+      </li>
+      <li>
+        <h3>Phase 3 — Strangers and side strands</h3>
+        <p>Clear stranger mission strands across the state, finish the character finals, and hunt Bret's unique animal. Trophies: Strangers &amp; Freaks (8 strands) · Road to Rehabilitation · This Was No Boat Accident · The Lone Rider · Supply &amp; Demand · Spin On This! · Fair Game.</p>
+      </li>
+      <li>
+        <h3>Phase 4 — Activities, races and the one missable trophy</h3>
+        <p>Stunts (250), Shooting Range golds, drone races, 20 race wins, fishing against Cal, one arcade game, bowling, and meditation at every spot. <strong>Do the Chapter 1 meditation spot before Chapter 1 ends</strong> — it is the list's one missable trophy. Trophies: Cunning Stunts · The Shootist · Top Fun · Earn Cash, Not Kudos · Baited My Tackle · Stick Fiddler · Let’s Go Bowling · Positive Mental Attitude · Master of None · One Last Thing.</p>
+      </li>
+      <li>
+        <h3>Phase 5 — Collectibles, robberies and clean-up</h3>
+        <p>Card sets, WAiNK It at 100 locations, bank vaults, armored trucks, illegal operations for each gang, garages and Scooter Bros registrations — then check the in-game completion screen and close the gap to 100%. Trophies: Don’t Touch My Deck · You WAiNKer! · Sneakthief · Maximum Withdrawal · A Classic Blitz Play · Pest Control · Little Boxes · On the Spot · Dime on the Dollar · Treat Yo Self · A Long Road · Vice Got a Price!</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="missable" id="missable" aria-label="Missable trophies">
+    <h2>⚠ Missable trophies — read before you play</h2>
+    <p><strong>1 trophy can be missed: Positive Mental Attitude</strong> (meditate at every spot across Leonida). Guides report that Lucia's balcony meditation spot in Chapter 1 counts toward it and disappears after that chapter, and that the game has no mission replay. Meditate there before Chapter 1 ends, and keep a manual save at the start of every chapter and one before the final mission.</p>
+    <p>Every other trophy is earned by playing the story, exploring, or grinding a count — none of them can be locked out by story progress. Sources: Output Lag trophy list and KeenGamer roadmap, linked beside the trophy below.</p>
+    <div id="missableList" class="missable-list"></div>
+  </section>
+
+  <section class="controls" aria-label="Find and filter trophies">
+    <h2>Find a trophy</h2>
+    <div class="control-row">
+      <label class="search-label">Search
+        <input id="searchInput" type="search" placeholder="Name, mission or keyword…" autocomplete="off">
+      </label>
+      <label>Kind
+        <select id="kindFilter">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="missable">Missable</option>
+          <option value="collectibles">Collectibles</option>
+          <option value="activities">Activities</option>
+          <option value="online">Online</option>
+        </select>
+      </label>
+      <label>Grade
+        <select id="gradeFilter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="toggle">
+        <input id="spoilerToggle" type="checkbox" checked>
+        Hide story spoilers
+      </label>
+    </div>
+    <div class="control-row">
+      <button id="exportBtn" type="button">Export progress (JSON)</button>
+      <label class="import-btn">Import progress
+        <input id="importInput" type="file" accept="application/json,.json">
+      </label>
+      <button id="resetBtn" type="button" class="danger">Reset progress</button>
+      <span id="importStatus" class="status" role="status"></span>
+    </div>
+    <p class="spoiler-note">Spoiler hiding is on by default: story trophy names and descriptions stay hidden until you earn them. Untick it to reveal them all. Views are shareable: add <code>?kind=missable</code>, <code>?grade=gold</code>, <code>?spoilers=off</code> or <code>?trophy=28</code> to the address to open the guide filtered, or with one trophy's guide open.</p>
+  </section>
+
+  <section aria-label="Trophy checklist">
+    <p id="resultCount" class="result-count">Showing 55 of 55 trophies</p>
+    <p id="emptyState" class="empty-state" hidden>No trophies match these filters. Try clearing the search or choosing another kind.</p>
+    <div id="trophyList" class="trophy-list"></div>
+  </section>
+
+  <section class="about" aria-label="About this guide">
+    <h2>About this guide</h2>
+    <p>All 55 trophies are single-player — there are no online trophies in this list, so the Online filter shows none by design. Guides are written for this guide from the official descriptions; every fact that goes beyond a description names the source beside it. No Rockstar logo, artwork or game screenshot is used anywhere in this guide — the look is its own.</p>
+    <p class="sources-line">List sources: Push Square (Exophase list, 18 Nov 2026) · Output Lag trophy list · KeenGamer roadmap · GTA Vice City Hub · GTABase. Each trophy links its own sources beside its guide.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Leonida Trophy Guide — an unofficial fan guide. Grand Theft Auto and GTA are trademarks of Rockstar Games. Works fully offline; the only files it loads are its own.</p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
