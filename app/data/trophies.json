@@ -1,0 +1,1052 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The 55-trophy list as published for PlayStation 5 (Exophase list reported by Push Square, 18 Nov 2026): 1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden; no online trophies. Names, descriptions and grades are shown exactly as listed. GTA VI launches 19 Nov 2026, so every guide below is built from the official description alone and says so where the description gives no method.",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "activities",
+      "missable": false,
+      "guide": "This is the Platinum: it unlocks on its own the moment the other 54 trophies are earned, so there is no separate task to do for it. Treat it as the finish line of the roadmap below, not as a trophy to chase directly — the last trophy you earn before it will almost certainly be A Long Road (100% completion) or one of the big grind trophies.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Play the opening mission, Gone Fishing, to its end. It is the first story mission, so this trophy comes naturally at the start of the game and cannot be missed — just follow the mission objectives until the mission-complete screen appears.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 1. Chapter trophies unlock by playing the story through in order, so keep following the main mission markers; there is no side requirement hidden in the description. Do the Chapter 1 meditation spot for Positive Mental Attitude before this chapter ends, because that spot is reported to disappear afterwards.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 2. Like the other chapter trophies, this one is earned by playing the main story in order; the description asks for nothing extra. Guides note that most of the list opens up once both protagonists are playable from Chapter 2, so use this chapter to start the side activities and collectibles that feed the later trophies.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 3. This is a story-progress trophy: play the chapter's missions in order until the chapter closes. The robbery trophies are reported to unlock in Chapters 3 and 4, so keep an eye out for heist-style missions and side content as this chapter runs.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 4. A story-progress trophy earned by completing the chapter; the description gives no extra condition. By this point in the story the robbery trophies should be within reach, so check the robbery section of the checklist before moving on to the finale.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the game's final story mission. This is one of only two gold trophies, and it is pure story progress: finish the last mission and it unlocks. Because guides report there is no mission replay, make a manual save before the final mission so you can return to the open world afterwards for clean-up.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Breakfast Run. Mission-named trophies like this one unlock by finishing that one mission; the description states no extra objective, so play it through to the mission-complete screen.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission The Cartel Heist. A single-mission trophy: finish the heist mission and the trophy follows. Heist missions are part of the main story, so this cannot be missed as long as you keep playing the story.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Child's Play. Finish that mission and the trophy unlocks; the description asks for nothing beyond the mission itself.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Headliners. A single-mission trophy: play the mission through to completion and it unlocks.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission VCIA Takedown. Finish the mission at the Vice City International Airport area and the trophy unlocks; the description gives no additional objective.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Operation Savage Glory. A single-mission trophy: finish the operation and it unlocks.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Reach 100% on the game's own completion tracker. This is the second gold trophy and the hardest one in the list: it is not about finishing the story, it is about the in-game checklist behind the completion percentage (story, stranger missions, activities and collectibles as the game counts them). Work through this guide's roadmap in order and check the in-game completion screen regularly so you can see which category is still short. Guides stress that 100% completion does not necessarily mean doing literally everything in the game — only what the tracker counts.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Complete 250 stunts across Leonida — jumps, flips, near-misses and the other stunt moves the game counts. This is a grind trophy, so fold it into normal play: take jumps and ramps whenever you are driving between missions instead of treating it as a separate chore. The counter is cumulative, so every stunt you pull from the start of the game counts toward the 250.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Sample every activity type the game offers at least once — one go at each, not mastery of any. The description does not name the activity types or how many there are, so use the in-game activities menu as your checklist and tick each type off as you try it; the trophy pops when the last untried type is done. A good early-game trophy: try a new activity whenever you pass one.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Earn a gold medal in every Shooting Range challenge. PlayStation tracks 42 Shooting Range challenges for this trophy, so this is a long accuracy grind rather than a single visit: work through the range's challenge list, golding each one, and return with better weapons or upgrades if a challenge resists you. The description asks for gold in all of them, so a silver on even one challenge holds the trophy back.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Win a Top Fun drone race at each of its locations — every location, not just one win. The description does not list how many locations there are, so follow the in-game race list and clear each location in turn; a win at a location you have already won does not advance the trophy. Learn each course's corners before pushing for the win.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Win 20 different races. The word different matters: winning the same race 20 times does not count, so work through the race list and win 20 distinct events. Mix race types as you go — it also feeds Master of None and keeps the grind varied.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Beat Cal in a fishing challenge. Fishing challenges are head-to-head, so this is about out-fishing one rival rather than catching a set number of fish: enter a fishing challenge against Cal and finish ahead of him. If you lose, enter again — the trophy only needs one win.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Complete one arcade game — finish it, not just start it. Find an arcade machine in the world, pick a game, and play it through to its end screen. Any arcade game counts, so choose the one you find easiest and finish it.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete Andy's final mission. Character mission strands end with a last mission for that person: take Andy's missions as they appear and finish the final one. The description names no other requirement, so this unlocks by following that strand to its end.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete Kenton's final mission. Follow Kenton's mission strand to its last mission and finish it; the trophy is tied to that single final mission, not to a count of jobs.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete Billy's final mission. Take Billy's missions as they unlock and finish the last one in the strand; the description asks for that final mission only.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete 8 full mission strands for strangers across Leonida. Stranger missions appear as icons in the world; each strand is a small chain of missions for one stranger, and the trophy needs 8 strands finished end to end, not 8 single missions. Explore the map between story missions, take every stranger icon you find, and keep returning to the same strangers until their chains close.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete Randy's final mission. Follow Randy's mission strand to its last mission and finish it; like the other character-final trophies, this one is a single final mission, not a quota.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete Tyrone's final mission. Take Tyrone's missions as they appear and finish the last one in his strand; the description asks for that final mission only.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "guide": "Meditate at every meditation spot across Leonida. This is the list's one missable trophy: guides report that Lucia's balcony meditation spot in Chapter 1 counts toward it and disappears after that chapter, and that the game has no mission replay — so meditate at the Chapter 1 spot before you finish Chapter 1, and make a manual save at the start of every chapter. KeenGamer lists 18 required spots in total; use the in-game map to find each one and meditate at it.",
+      "sources": [
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Hunt the unique animal Bret asks for. This is a hunting job for a named character, not general hunting: take Bret's request, track the one unique animal it names, and bring it down. The description gives no species or place, so follow Bret's missions and the in-game prompts for that hunt.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectibles",
+      "missable": false,
+      "guide": "Complete 3 full collectible card sets. Cards are scattered across Leonida; a set is complete only when every card in it is found, and the trophy needs 3 sets finished. Pick up every card you pass while doing other things, and use the in-game collection screen to see which sets are one or two cards short before you go hunting for the stragglers.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "collectibles",
+      "missable": false,
+      "guide": "Use the WAiNK It action at 100 different locations. This is a long location grind: the count is 100, and the description says locations, so spreading the action across the map matters more than repeating it in one place. Do a few WAiNK Its in every new area you visit so the total climbs while you explore for The Goodtime State.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Complete 50 challenges. Challenges are the game's small optional objectives, and the count is cumulative across all types — so the fastest route is breadth: clear the easy challenges in every category rather than grinding one hard type 50 times. Check the challenges menu to see which ones are nearly done.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "With your partner beside you, build a 4-star wanted level and then lose it and escape. Both parts matter: your partner must be with you when the wanted level hits 4 stars, and you must then break line of sight and get clear until the stars drop. Use a fast car, put distance between yourself and the police, and stay out of their view until the heat is gone.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "With your partner, rob 3 shops in a row without ever losing your wanted level — the wanted level must stay on through all three robberies. Plan a route past three shops close together, keep your partner with you, and move fast between them; if the wanted level drops to zero before the third robbery, the chain breaks and you start again.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "guide": "Discover 100 different vehicles. The game logs a vehicle the first time you encounter it, so variety is the whole job: drive, ride and fly everything you find instead of sticking to one favourite car. New areas and vehicle types add new discoveries, so this climbs naturally while you explore Leonida for The Goodtime State.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Take down 5 enemies during one single use of Combat Focus. Set it up before you trigger the ability: find a spot with at least 5 enemies close together, then activate Combat Focus and drop all 5 before it ends. If you only get 4, the attempt does not count — reposition and try again in a busier fight.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Make an unscheduled departure at VCIA, the Vice City International Airport — leave by air without a scheduled flight. The description is deliberately vague about the exact method, and guides list no confirmed step for it at launch, so treat it as an open-world stunt at the airport: get a plane airborne from VCIA outside any mission or scheduled departure and see it through. Check the cited guides after launch for a confirmed method.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "The description is a joke, not an instruction: it names Rhinos — the series' tanks — and nothing else, so no confirmed unlock step is published yet. The sensible reading is that it involves the Rhino tank in some way, but this guide will not invent a method the sources do not state. Try spending time with a Rhino once you can reach one, and check the cited trophy lists after launch for a confirmed requirement.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Rob a jewelry store without being detected at any point — no alarm, no spotted prompt, no wanted level from the robbery itself. Plan the approach before you act: go in quietly, take the goods, and leave before anyone raises the alarm. If you are spotted, the attempt fails, so leave and try again rather than fighting your way out.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Rob 5 bank vaults and escape after each one. Each vault counts only if you get away clean afterwards, so a robbery that ends in a bust or a death does not add to the 5. The robbery trophies are reported to unlock in Chapters 3 and 4, so expect bank vaults to open up in the later story — work through them one at a time and escape before moving to the next.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Rob one armored truck and escape afterwards. Armored trucks travel the roads of Leonida, so watch for one on the move, stop it, take the cash, and then break away clean — the escape is part of the trophy, so have a fast getaway vehicle ready before you strike.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "guide": "Explore every part of Leonida until the whole map is uncovered. The description sets no number of areas, so use the in-game map as the checklist: any grey or unvisited region is still to do. Drive the coastline, the swamps and the city districts between missions, and pair this with Whip It Good and You WAiNKer!, which both reward the same exploring.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Rob one illegal operation belonging to each gang in the game. The description does not name the gangs or say how many there are, so work from the in-game world: find each gang's illegal operation, rob it, and move on to the next gang's. A gang whose operation you have already robbed does not count twice.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Enjoy a cocktail with a view on Ocean Beach — find a spot on Ocean Beach where you can order or enjoy a cocktail while looking out over the water. The description gives no confirmed venue or trigger, and guides list no confirmed unlock method for it at launch, so treat it as a small moment trophy: visit Ocean Beach, look for a bar or cocktail spot with a view, and order a drink there. Check the cited guides after launch for a confirmed spot.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Smash your way out of a vehicle showroom, in the classic style the description hints at: drive a car through the showroom glass and out the other side. The description names no showroom and no car, and guides list no confirmed method at launch, so pick a showroom, build speed inside or just outside it, and drive straight through. Check the cited guides after launch for a confirmed showroom.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Go to the Kolt & Associates bowling alley and follow through — play a game of bowling there to completion. The description names the alley, so the trophy is tied to that venue rather than any bowling lane: visit Kolt & Associates, bowl, and finish the game.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "The description is a riddle, not an instruction: a partnership with mass appeal, and no confirmed unlock method is published at launch. It most plausibly involves the two protagonists doing something together that draws a crowd, but this guide will not guess the trigger. Keep it on the checklist, play the partner content, and check the cited trophy lists after launch for a confirmed method.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Make choices in the game — the description tracks choices made, for better or worse, and gives no number or list. The sensible approach is to keep choosing whenever the game offers a decision, in missions and in the open world, and to play through the story's choice points rather than avoiding them. No source states a count, so this guide states none.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "The description is a riddle — second time's the charm — and no confirmed unlock method is published at launch. It most plausibly rewards succeeding at something on a second attempt, but the trophy could also be tied to a specific moment, so this guide will not invent a method. If a retryable event fails once, try it again; otherwise check the cited trophy lists after launch for a confirmed trigger.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "The description is a reaction, not an instruction — something strange happens — and no confirmed unlock method is published at launch. It most plausibly involves witnessing one of the game's odd open-world events, but the exact event is not stated by any source, so this guide will not name one. Keep exploring Leonida's stranger corners and check the cited trophy lists after launch for a confirmed method.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Knock someone over with a melee drive-by — strike a person with a melee weapon while driving past in a vehicle. The description names no target or place, and guides list no confirmed method at launch, so the practical reading is: while driving, swing a melee weapon at a pedestrian as you pass and knock them down. Do it away from heavy police presence so a wanted level does not cut the attempt short.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "Output Lag — GTA 6 Trophy List: All 55 Trophies and Achievements",
+          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Earn $250,000 by laundering Marked Bills through your contacts. Marked Bills come from robberies and heists, and your contacts turn them into clean cash — the trophy counts the laundered total, so keep feeding bills through your contacts across the whole playthrough rather than letting them pile up. Robbery trophies such as Maximum Withdrawal and A Classic Blitz Play are a natural source of the bills.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Spend $100,000 in total across all shops. The total is cumulative and counts every shop in the game, so just buy what you need as you play — clothes, weapons, food and gear all add up. If you reach the endgame short of the total, the quickest top-up is buying expensive items you still want, since the trophy counts spending, not what you buy.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTABase — GTA 6 Trophy Guide & Achievements List",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "guide": "Buy every garage property in the game. The description does not say how many garages there are, so use the in-game property listings as the checklist and buy each garage as it becomes available and as you can afford it. Garages also give you somewhere to store the vehicles you register for On the Spot, so buy them as you go.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "GTA Vice City Hub — GTA 6 Achievements",
+          "url": "https://www.gtavicecityhub.com/achievements"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "guide": "Register 10 vehicles to the Scooter Bros app. Find vehicles around Leonida, open the Scooter Bros app, and register each one — the trophy counts registrations, so 10 different vehicles, not the same one 10 times. Pair this with Whip It Good: every new vehicle you discover is a candidate to register.",
+      "sources": [
+        {
+          "name": "Push Square — GTA 6 PS5 Trophies Revealed (Exophase list, 18 Nov 2026)",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum"
+        },
+        {
+          "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
+        }
+      ]
+    }
+  ]
+}
